@@ -62,7 +62,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/intro-1672160661.jpg',
+      image: 'img/intro.svg',
       navbar: {
         title: 'My 2rd Brain',
         logo: {
