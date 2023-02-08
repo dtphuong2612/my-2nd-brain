@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My 2rd Brain',
-  tagline: 'Dinosaurs are cool',
+  title: 'Welcome!!!',
+  tagline: 'Nothing is impossible',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -62,9 +62,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/intro-1672160661.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'My 2rd Brain',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -78,8 +78,8 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://github.com/dtphuong2612/my-2rd-brain',
+            label: 'mygit',
             position: 'right',
           },
         ],
