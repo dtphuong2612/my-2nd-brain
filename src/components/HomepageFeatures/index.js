@@ -5,11 +5,11 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'About me',
-    Svg: require('@site/static/img/me.svg').default,
+    Svg: require('@site/static/img/aaa.svg').default,
     description: (
       <>
        My name is Phuong Duong. I majored in Data Science in Economics and Business at the National Economics University.
-       I am currently a Machine Learning Engineer and I'm here to share what I've learned
+       I am currently a Machine Learning Engineer and I'm here to share what I've learned.
       </>
     ),
   },
