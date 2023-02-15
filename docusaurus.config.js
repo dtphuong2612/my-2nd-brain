@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Welcome!!!',
   tagline: 'Nothing is impossible',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/inn.jpg',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -78,7 +78,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/dtphuong2612/my-2rd-brain',
+            href: 'https://github.com/dtphuong2612',
             label: 'mygit',
             position: 'right',
           },
