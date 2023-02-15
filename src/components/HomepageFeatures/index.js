@@ -4,12 +4,12 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'About me',
+    Svg: require('@site/static/img/me.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+       My name is Phuong Duong. I majored in Data Science in Economics and Business at the National Economics University.
+       I am currently a Machine Learning Engineer and I'm here to share what I've learned
       </>
     ),
   },
