@@ -78,7 +78,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/dtphuong2612',
+            href: 'https://github.com/dtphuong2612/my-2rd-brain',
             label: 'mygit',
             position: 'right',
           },

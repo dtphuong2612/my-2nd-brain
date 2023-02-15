@@ -1,27 +1,24 @@
 ---
 slug: welcome
 title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+authors: [dttph]
+tags: [facebook, hello, github]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog). 
+**Hi guys 👋**
+I'm Phuong Duong who is a final year student at National Economics University. My major is Data Science in Economics and Business. I always want to improve myself and learn anything new.
 
-Phương đần
+    🔭 I'm currently diving into Machine Learning
 
-Simply add Markdown files (or folders) to the `blog` directory.
+    😄 I really like cute little things !!!!
 
-Regular blog authors can be added to `authors.yml`.
+    🌱 The best book to re-read is "Giấc Mơ Mỹ - Đường Đến Stanford" by Huyen Chip
 
-The blog post date can be extracted from filenames, such as:
+    ⚡ I usually watch youtube in my free time, my favorite channels are Giang Oi and Diep Minh
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
+    💬 How to reach me:
 
-A blog post folder can be convenient to co-locate blog post images:
+            Email me at: dttph2612@gmail.com ^^
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
-
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+This is my first travel photo in 2023
+(./imag.jpg)
