@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'About me',
-    Svg: require('@site/static/img/aaa.svg').default,
+    Svg: require('@site/static/img/self.svg').default,
     description: (
       <>
        My name is Phuong Duong. I majored in Data Science in Economics and Business at the National Economics University.
@@ -15,18 +15,18 @@ const FeatureList = [
   },
   {
     title: 'Focus on my favorites',
-    Svg: require('@site/static/img/favorite.svg').default,
+    Svg: require('@site/static/img/fav.svg').default,
     description: (
       <>
         I really like cute little things !!!! 
         I also love read and the best book to re-read is "Giấc Mơ Mỹ - Đường Đến Stanford" by Huyen Chip.
-        I usually watch youtube in my free time, my favorite channels are Giang Oi and Diep Minh. And my dream is to set foot in Switzerland, an extremely peaceful country ^^
+        I usually watch youtube in my free time, my favorite channels are Giang Oi and Diep Minh. And my dream is to set foot in Switzerland, an extremely peaceful country.
       </>
     ),
   },
   {
     title: 'My 2rd Brain',
-    Svg: require('@site/static/img/work.svg').default,
+    Svg: require('@site/static/img/workk.svg').default,
     description: (
       <>
         I am a very forgetful person. 
