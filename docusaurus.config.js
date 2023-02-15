@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Welcome!!!',
   tagline: 'Nothing is impossible',
-  favicon: 'img/inn.jpg',
+  favicon: 'img/icon.png',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -67,7 +67,7 @@ const config = {
         title: 'My 2rd Brain',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/inn.jpg',
+          src: 'img/icon.png',
         },
         items: [
           {
@@ -100,16 +100,16 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Facebook',
+                href: 'https://www.facebook.com/dtp.2612',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/dtt.ph/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'LinkedIn',
+                href: 'www.linkedin.com/in/dttph',
               },
             ],
           },
@@ -122,12 +122,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/dtphuong2612',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Thanks for visiting!!! `,
       },
       prism: {
         theme: lightCodeTheme,
