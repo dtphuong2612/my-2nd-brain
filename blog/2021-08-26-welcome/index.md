@@ -6,6 +6,7 @@ tags: [facebook, hello, github]
 ---
 
 **Hi guys 👋**
+
 I'm Phuong Duong who is a final year student at National Economics University. My major is Data Science in Economics and Business. I always want to improve myself and learn anything new.
 
     🔭 I'm currently diving into Machine Learning
@@ -21,4 +22,5 @@ I'm Phuong Duong who is a final year student at National Economics University. M
             Email me at: dttph2612@gmail.com ^^
 
 This is my first travel photo in 2023
-(./imag.jpg)
+
+![Docusaurus Plushie](./imag.jpg)
