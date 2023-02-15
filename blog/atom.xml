@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/my-2rd-brain/blog</id>
-    <title>Welcome!!! Blog</title>
+    <title>My 2rd Brain Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/my-2rd-brain/blog"/>
-    <subtitle>Welcome!!! Blog</subtitle>
-    <icon>https://github.com/my-2rd-brain/img/inn.jpg</icon>
+    <subtitle>My 2rd Brain Blog</subtitle>
+    <icon>https://github.com/my-2rd-brain/img/icon.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://github.com/my-2rd-brain/blog/welcome</id>
