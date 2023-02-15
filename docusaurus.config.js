@@ -109,7 +109,7 @@ const config = {
               },
               {
                 label: 'LinkedIn',
-                href: 'www.linkedin.com/in/dttph',
+                href: 'www.linkedin.com/in/dttph/',
               },
             ],
           },
