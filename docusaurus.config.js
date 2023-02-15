@@ -127,7 +127,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc.`,
+        copyright: `Thank for visiting!!! © ${new Date().getFullYear()}`,
       },
       prism: {
         theme: lightCodeTheme,
