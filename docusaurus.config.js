@@ -127,7 +127,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Thanks for visiting!!! `,
+        copyright: `Thanks for visiting!!!`,
       },
       prism: {
         theme: lightCodeTheme,
