@@ -14,22 +14,24 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Focus on my favorites',
+    Svg: require('@site/static/img/favorite.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        I really like cute little things !!!! 
+        I also love read and the best book to re-read is "Giấc Mơ Mỹ - Đường Đến Stanford" by Huyen Chip.
+        I usually watch youtube in my free time, my favorite channels are Giang Oi and Diep Minh. And my dream is to set foot in Switzerland, an extremely peaceful country ^^
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'My 2rd Brain',
+    Svg: require('@site/static/img/working.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        I am a very forgetful person. 
+        That's why my 2rd brain was born. 
+        I will write what I learn here with two main purposes that I can easily review when needed and to share with everyone.
       </>
     ),
   },
