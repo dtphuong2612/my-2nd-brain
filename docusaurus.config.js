@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Welcome!!!',
+  title: 'My 2rd Brain',
   tagline: 'Nothing is impossible',
   favicon: 'img/icon.png',
 
@@ -127,7 +127,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Thanks for visiting!!!`,
+        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc.`,
       },
       prism: {
         theme: lightCodeTheme,
