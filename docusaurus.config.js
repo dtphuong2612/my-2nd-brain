@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My 2rd Brain',
   tagline: 'Nothing is impossible',
-  favicon: 'img/icon.png',
+  favicon: 'img/icon.jpg',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -62,12 +62,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/icon.png',
+      image: 'img/icon.jpg',
       navbar: {
         title: 'My 2rd Brain',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/icon.png',
+          src: 'img/icon.jpg',
         },
         items: [
           {
