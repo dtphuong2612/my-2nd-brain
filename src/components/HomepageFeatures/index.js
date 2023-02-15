@@ -26,7 +26,7 @@ const FeatureList = [
   },
   {
     title: 'My 2rd Brain',
-    Svg: require('@site/static/img/working.svg').default,
+    Svg: require('@site/static/img/work.svg').default,
     description: (
       <>
         I am a very forgetful person. 
