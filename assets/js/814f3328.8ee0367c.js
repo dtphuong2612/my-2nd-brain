@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_2_rd_brain=self.webpackChunkmy_2_rd_brain||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/my-2rd-brain/blog/welcome"}]}')}}]);
