@@ -1,47 +1,12 @@
----
-sidebar_position: 1
----
+# Welcome to My Tutorial 
 
-# Tutorial Intro
+ Thanks for reading!!!
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## About me:
 
-## Getting Started
+My name is Phuong Duong. I majored in Data Science in Economics and Business at the National Economics University. I am currently developing as a Machine Learning Engineer.
 
-Get started by **creating a new site**.
+I write this blog with two main purposes. One is to synthesize my own knowledge. Second, I hope to be able to share that knowledge with everyone.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+If you have any questions or suggestions please contact me by email "dttph2612@gmail.com"
 
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
