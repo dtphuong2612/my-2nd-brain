@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_2_rd_brain=self.webpackChunkmy_2_rd_brain||[]).push([[2735],{8091:e=>{e.exports=JSON.parse('{"permalink":"/my-2rd-brain/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
