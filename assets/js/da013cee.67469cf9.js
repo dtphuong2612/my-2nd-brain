@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_2_rd_brain=self.webpackChunkmy_2_rd_brain||[]).push([[371],{7344:a=>{a.exports=JSON.parse('{"label":"books","permalink":"/my-2rd-brain/blog/tags/books","allTagsPath":"/my-2rd-brain/blog/tags","count":1}')}}]);
