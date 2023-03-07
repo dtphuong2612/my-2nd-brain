@@ -23,4 +23,4 @@ I'm Phuong Duong who is a final year student at National Economics University. M
 
 This is my first travel photo in 2023
 
-![Docusaurus Plushie](./imag.jpg)
+(./imag.jpg)
