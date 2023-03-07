@@ -9,7 +9,7 @@ const FeatureList = [
     description: (
       <>
        My name is Phuong Duong. I majored in Data Science in Economics and Business at the National Economics University.
-       I am currently a Machine Learning Engineer and I'm here to share what I've learned.
+       I am currently developing as a Machine Learning Engineer. and I'm here to share what I've learned.
       </>
     ),
   },
