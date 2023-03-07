@@ -3,6 +3,7 @@ slug: welcome
 title: Welcome
 authors: [dttph]
 tags: [facebook, hello, github]
+sidebar_position: 1
 ---
 
 **Hi guys 👋**
