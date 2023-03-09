@@ -1,9 +1,5 @@
 # Linear Algebra 
 
-[TOC]
-
-
-
 ## I.Vector
 
 ### 1.What is a vector?
@@ -12,5 +8,11 @@
 
 ***Vectors*** are special objects that can be ***added together*** and ***multiplied by scalars*** to produce another object of the same kind. 
 
- 
+
+
+
+
+
+
+
 
