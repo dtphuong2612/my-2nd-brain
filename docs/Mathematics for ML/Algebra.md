@@ -10,15 +10,15 @@
 
 *a, Example of Vector*
 
-![Vector](C:\Users\admin\my-2rd-brain\docs\Mathematics for ML\img'\vt.png "Example of Vector")
+![Vector](./img'/vt.png "Example of Vector")
 
 *b, Example of Added Vector*
 
-![Vector](C:\Users\admin\my-2rd-brain\docs\Mathematics for ML\img'\add.png "Example of Added Vector")
+![Vector](./img'/add.png "Example of Added Vector")
 
 *c, Example of Scale Vector*
 
-![Vector](C:\Users\admin\my-2rd-brain\docs\Mathematics for ML\img'\scale.png "Example of Scale Vector")
+![Vector](./img'/scale.png "Example of Scale Vector")
 
 
 
