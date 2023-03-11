@@ -133,9 +133,11 @@ A \in R^{m\times{}n},\quad B \in R^{n\times{}k}, \quad C =AB, \quad C_{ij} = \su
 $$
 
 *Different view*
-                          ![Matrix multiplication](./img'/multi.png 'Example')
 
-​                                     ![matrix multi](./img'/multi_n.png)
+![Matrix multiplication](./img'/multi.png 'Example')
+
+​![matrix multi](./img'/multi_n.png)
+
 *Example*
 $$
 \begin{bmatrix}
