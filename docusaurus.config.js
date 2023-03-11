@@ -43,17 +43,17 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/'
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          stylesheets: [
+              {
+                href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
+                type: 'text/css',
+                integrity:
+                  'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
+                crossorigin: 'anonymous',
+              },
+            ]
         },
-        stylesheets: [
-          {
-            href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
-            type: 'text/css',
-            integrity:
-              'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
-            crossorigin: 'anonymous',
-          },
-        ],
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
