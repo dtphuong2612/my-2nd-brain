@@ -82,7 +82,7 @@ a_{21}\\a_{22}\\...\\a_{2n}
 ...,
 \begin{bmatrix}
 a_{n1}\\a_{n2}\\...\\a_{mn}
-\end{bmatrix},)
+\end{bmatrix})
 $$
 
 #### ***Matrix addition***
