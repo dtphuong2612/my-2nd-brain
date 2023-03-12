@@ -326,7 +326,7 @@ $$
 $$
 *with c is columns*
 
-We can see that $x^*=[42,8,0,0]^T \begin{equation} (\Rightarrow Ax^*=b) \end{equation} $ is solution, it is called particular soluyion or special solution.
+We can see that $x^*=[42,8,0,0]^T \begin{equation} (\Rightarrow Ax^*=b) \end{equation}$ is solution, it is called particular soluyion or special solution.
 
 *So how do we find the remaining solutions of the equation?*
 
@@ -355,7 +355,7 @@ From $(1), (2) \text{and } (3)$ we have:
 $$
 A(x^* +\lambda_1 \begin{bmatrix}8\\-2\\1\\0 \end{bmatrix} + \lambda_2 \begin{bmatrix}4\\-12\\0\\1\end{bmatrix}) =b, \lambda_1 \lambda_2 \in R
 $$
-Finally: $x=\begin{bmatrix}42\\8\\0\\0\end{bmatrix} + \lambda_1\begin{bmatrix}8\\-2\\1\\0\end{bmatrix} + \lambda_2 \begin{bmatrix}4\\-12\\0\\1\end{bmatrix}, \lambda_1 \lambda_2 \in R $
+Finally: $x=\begin{bmatrix}42\\8\\0\\0\end{bmatrix} + \lambda_1\begin{bmatrix}8\\-2\\1\\0\end{bmatrix} + \lambda_2 \begin{bmatrix}4\\-12\\0\\1\end{bmatrix}, \lambda_1 \lambda_2 \in R$
 
 ***How to solve system of equations:***
 
@@ -408,23 +408,23 @@ row-echelon form.
 #### ***Exercise***
 ***Ex1: Compute the following matrix products, if possible:***
 
-*(a)* $ A=\begin{bmatrix}1\\2\\3 \end{bmatrix} \begin{bmatrix}1&2&3 \end{bmatrix}$
+*(a)* $A=\begin{bmatrix}1\\2\\3 \end{bmatrix} \begin{bmatrix}1&2&3 \end{bmatrix}$
 $$
 A = \begin{bmatrix}1\times1 & 2\times 2 & 3\times3 \end{bmatrix} = \begin{bmatrix} 1&4&9 \end{bmatrix}
 $$
-*(b)* $ B=\begin{bmatrix}1&2&3 \end{bmatrix} \begin{bmatrix}1\\2\\3 \end{bmatrix}$
+*(b)* $B=\begin{bmatrix}1&2&3 \end{bmatrix} \begin{bmatrix}1\\2\\3 \end{bmatrix}$
 $$
 B = [1\times1 + 2\times 2 + 3\times3] = 14 
 $$
-*(c)* $ C=\begin{bmatrix}1&2\\4&5\\7&8 \end{bmatrix} \begin{bmatrix}1&1&0\\0&1&1\\1&0&1 \end{bmatrix}$
+*(c)* $C=\begin{bmatrix}1&2\\4&5\\7&8 \end{bmatrix} \begin{bmatrix}1&1&0\\0&1&1\\1&0&1 \end{bmatrix}$
 
 We cannot solve that calculation, because the number of elements in the row is not equal to the number of elements in the column
 
-*(d)* $ D=\begin{bmatrix}1&1&0\\0&1&1\\1&0&1 \end{bmatrix} \begin{bmatrix}1&2&3\\4&5&6\\7&8&9\end{bmatrix}$
+*(d)* $D=\begin{bmatrix}1&1&0\\0&1&1\\1&0&1 \end{bmatrix} \begin{bmatrix}1&2&3\\4&5&6\\7&8&9\end{bmatrix}$
 $$
 D  =  \begin{bmatrix} 5&7&9\\11&13&15 \\ 8&10&12 \end{bmatrix}
 $$
-*(e)* $ E=\begin{bmatrix} 1&2&1&2\\4&1&-1&-4 \end{bmatrix} \begin{bmatrix} 0&3\\1&-1\\2&1\\5&2\end{bmatrix}$
+*(e)* $E=\begin{bmatrix} 1&2&1&2\\4&1&-1&-4 \end{bmatrix} \begin{bmatrix} 0&3\\1&-1\\2&1\\5&2\end{bmatrix}$
 $$
 E = \begin{bmatrix} 14&6\\-21&2 \end{bmatrix}
 $$
