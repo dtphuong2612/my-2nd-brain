@@ -326,7 +326,7 @@ $$
 $$
 *with c is columns*
 
-We can see that $x^*=[42,8,0,0]^T \begin{equation} (\Rightarrow Ax^*=b) \end{equation}$ is solution, it is called particular soluyion or special solution.
+We can see that $x^*=[42,8,0,0]^T\begin{equation}(\Rightarrow Ax^*=b)\end{equation}$ is solution, it is called particular soluyion or special solution.
 
 *So how do we find the remaining solutions of the equation?*
 
