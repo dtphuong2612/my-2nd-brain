@@ -59,7 +59,7 @@ $$
 
 ## II. Matrix
 
-#### What is the matrix?
+### What is the matrix?
 
 **Matrix** a [set](https://www.britannica.com/topic/set-mathematics-and-logic) of numbers arranged in rows and columns so as to form a rectangular [array](https://www.britannica.com/dictionary/array).
 *Example of matrix*
@@ -85,7 +85,7 @@ a_{n1}\\a_{n2}\\...\\a_{mn}
 \end{bmatrix})
 $$
 
-#### ***Matrix addition***
+### ***Matrix addition***
 
 $$
 A \in R^{m\times{}n},\quad B \in R^{m\times{}n}
@@ -99,7 +99,7 @@ a_{m1}+b_{m1}&a_{m2}+b_{m2}&...&a_{mn}+b_{mn}
 \end{bmatrix} \in R^{m\times{}n}
 $$
 
-#### ***Hadamard product***
+### ***Hadamard product***
 
 $$
 A \in R^{m*n},\quad B \in R^{m*n}
@@ -113,7 +113,7 @@ a_{m1}b_{m1}&a_{m2}b_{m2}&...&a_{mn}b_{mn}
 \end{bmatrix} \in R^{m*n}
 $$
 
-#### ***Matrix multiplication***
+### ***Matrix multiplication***
 
 $$
 A \in R^{m\times{}n},\quad B \in R^{n\times{}k}, \quad C =AB, \quad C_{ij} = \sum^n_{k=1} a_{ik}b_{kj}
@@ -158,7 +158,7 @@ $$
 \end{bmatrix}
 $$
 
-#### ***Identity matrix***
+### ***Identity matrix***
 
 Identity matrix is a square matrix, with the value:
 $$
@@ -179,7 +179,7 @@ I_n=
 \end{bmatrix} \in R^{n\times n}
 $$
 
-#### ***Matrix properties***
+### ***Matrix properties***
 
 - $$
   \forall A \in R^{m\times n}, B \in R^{n\times p}, C \in R^{p\times q}: (AB)C = A(BC)
@@ -198,7 +198,7 @@ $$
   \forall A \in R^{m \times n}: I_mA = AI_n =A, \text{note that }: I_m \neq I_n
   $$
 
-#### ***Transpose***
+### ***Transpose***
 
 $$
 A \in R^{m\times n} \Rightarrow B = A^T \in R^{n \times m}, a_{ij} = b_{ji}
@@ -225,14 +225,14 @@ $$
 \text{A matrix } A \in R^{m\times n} \text{is symmetric if } A^T = A
 $$
 
-#### ***Inverse***
+### ***Inverse***
 
 Square matrix A and matrix B belong to the same n-dimensional space with the property that AB = BA = Identity matrix, then B is called the inverse matrix of A.
 
 Not every matrix A has an inverse,if the inverse does exist, A is called regular/invertible/nonsingular matrix.
 
 
-#### ***Liner equation***
+### ***Liner equation***
 $$
 \begin{cases}
 2x+y=1\\x-y=-1
@@ -326,7 +326,7 @@ $$
 $$
 *with c is columns*
 
-We can see that $x^*=[42,8,0,0]^T\begin{equation}(\Rightarrow Ax^*=b)\end{equation}$ is solution, it is called particular soluyion or special solution.
+We can see that $x^*=[42,8,0,0]^T(\Rightarrow Ax^*=b)(1)$ is solution, it is called particular soluyion or special solution.
 
 *So how do we find the remaining solutions of the equation?*
 
@@ -365,7 +365,7 @@ $\bullet$ Find all solutions to $Ax=0$
 
 $\bullet$ Combine the solutions from steps 1. and 2. to general solution
 
-#### ***Row-Echelon Form***
+### ***Row-Echelon Form***
 A matrix is in row-echelon form if:
 
 $\bullet$ All rows that contain only zeros are at the bottom of matrix
@@ -405,7 +405,7 @@ Gaussian elimination is an algorithm that elimination performs elementary
 transformations to bring a system of linear equations into reduced
 row-echelon form.
 
-#### ***Exercise***
+### ***Exercise***
 ***Ex1: Compute the following matrix products, if possible:***
 
 *(a)* $A=\begin{bmatrix}1\\2\\3 \end{bmatrix} \begin{bmatrix}1&2&3 \end{bmatrix}$
