@@ -1,5 +1,9 @@
-# The Song of Achilles_Madeline Miller
-
+---
+slug: The Song of Achilles_Madeline Miller
+title: The Song of Achilles_Madeline Miller
+authors: [dttph]
+tags: [thesongofachilles, fiction, romance, history, book, greek]
+---
 
 ***Hanoi, Friday 17th March ,2023***
 
