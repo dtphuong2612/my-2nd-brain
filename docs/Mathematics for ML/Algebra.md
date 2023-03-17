@@ -1,8 +1,8 @@
 # Linear Algebra 
 
-## I.Vector
+## Vector
 
-### What is a vector?
+### ***What is a vector?***
 
 ***A vector*** is a quantity or phenomenon that has two independent properties: ***magnitude*** and ***direction***. 
 ***Vectors*** are special objects that can be ***added together*** and ***multiplied by scalars*** to produce another object of the same kind. 
@@ -21,7 +21,7 @@
 
 
 
-### Vector Representation
+### ***Vector Representation***
 
 Only 2D and 3D can use *geometric vectors*. How many *extra dimensions* would the vector have?
 
@@ -57,9 +57,9 @@ a_1\\a_2\\...\\a_n
 \end{bmatrix}
 $$
 
-## II. Matrix
+## Matrix
 
-### What is the matrix?
+### ***What is the matrix?***
 
 **Matrix** a [set](https://www.britannica.com/topic/set-mathematics-and-logic) of numbers arranged in rows and columns so as to form a rectangular [array](https://www.britannica.com/dictionary/array).
 *Example of matrix*
@@ -549,3 +549,22 @@ $$
 1&-1\\-3&4
 \end{bmatrix}
 $$
+
+## Linear Independent
+### ***Group***
+
+Consider a set $\mathcal{G}$ and an operation $\otimes$: $\mathcal{G} \times \mathcal{G} \rightarrow \mathcal{G}$ defined on $\mathcal{G}$. Then $\mathcal{G} := (\mathcal{G},\otimes)$ is called a group if the following hold:
+
+$\bullet \forall x, y \in \mathcal{G} , x \otimes y \in \mathcal{G}$
+
+$\bullet \forall x,y,z \in \mathcal{G}, (x\otimes y) \otimes z = x \otimes (y \otimes z)$
+
+$\bullet \exists e \in \mathcal{G} , \forall x \in \mathcal{G}: x\otimes e = e\otimes x = x$
+
+$\bullet \forall x \in \mathcal{G}, \exists y \in \mathcal{G}: x \otimes y = y \otimes x =e$
+
+If additionally, $\forall x,y \in \mathcal{G}: x \otimes y = y \otimes x$ then $G=(\mathcal{G}, \otimes)$ is an *Abelian group*
+
+***Example***
+
+***With (R,+)***
