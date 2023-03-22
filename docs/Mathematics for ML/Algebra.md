@@ -535,6 +535,7 @@ $$
 A^{-1} = \begin{bmatrix} \frac{1}{2}&0&0\\0&-1&0\\0&0&\frac{1}{6} \end{bmatrix}
 $$
 *(b)* $B=\begin{bmatrix} 4&1\\3&1 \end{bmatrix}$
+
 We have: $BB^{-1} =I$
 $$
 \begin{bmatrix} 4&1\\3&1 \end{bmatrix} \begin{bmatrix} a_{11}&a_{12}\\a_{21}&a_{22} \end{bmatrix} =  \begin{bmatrix} 1&0\\0&1\end{bmatrix}
@@ -567,4 +568,76 @@ If additionally, $\forall x,y \in \mathcal{G}: x \otimes y = y \otimes x$ then $
 
 ***Example***
 
-***With (R,+)***
+***With $(R,+)$***
+
+$\bullet \forall x,y \in R \rightarrow x+y \in R$
+
+$\bullet \forall x,y,z \in R \rightarrow (x-y)+z = x+(y+z)$
+
+$\bullet  \forall x \in R , \exists e=0: x+0 =0+x$
+
+$\bullet \forall x \in R , \exists y=-x \rightarrow x+y = 0$
+
+$\Rightarrow (R,+)$ is a group
+
+***With $(Z, \times)$***
+
+$\bullet \forall x,y \in Z \rightarrow x\times y \in Z$
+
+$\bullet \forall x,y,z \in Z \rightarrow (x\times y)\times z = x\times (y\times z)$
+
+$\bullet  \forall x \in Z , \exists e=1: x\times 1 =1 \times x$
+
+$\bullet \forall x \in Z , \exists y=0 \rightarrow x\times y =y\times x = 0 \neq e$
+
+$\Rightarrow (Z,\times)$ is not a group
+
+***With $(R^n, .)$***
+
+$\bullet \forall x,y \in R^n (vector) \rightarrow x + y \in R^n$
+
+$\bullet \forall x,y,z \in R^n \rightarrow (x-y)+z = x+(y+z)$
+
+$\bullet  \forall x \in R^n , \exists e=\begin{bmatrix}1\\1\\...\\1\end{bmatrix}: x+e =e+x$
+
+$\bullet \forall x \in R^n , \exists y=-x \rightarrow x+y = 0$
+
+$\Rightarrow (R^n,+)$ is a group
+
+***With $(R^{n\times n}, \times)$***
+
+Does not satisfy condition 4, because we have $A.B=I_n$ but not all square matrices have inverse matrices
+
+$\Rightarrow (R^{n\times n}, \times)$ is not a group
+
+### ***Vector space***
+
+A real-valued vector space $V=(\mathcal{V};+;\times)$ is a set $\mathcal{V}$ with to operations:
+
+$\bullet (\mathcal{V};+) \text{is an Abelian group}$
+
+$\bullet \forall \lambda,\gamma \in r, x,y \in \mathcal{V}:$
+
+$\quad \quad \quad \lambda(x+y)= \lambda x+\lambda y$
+
+$\quad \quad \quad (\lambda + \gamma)x= \lambda x+\gamma x$
+
+$\bullet \forall \lambda, \gamma \in R, x \in \mathcal{V}: \lambda(\gamma x) = (\lambda \gamma)x$
+
+$\bullet 1\times x=x$
+
+The elements $x \in \mathcal{V}$ are called **vectors**, examples: $\mathcal{V} = R^n$.
+
+We will denote a vector space $(\mathcal{V}, +, .)$ by V when + and . are the standard vector addition and scalar multiplication.
+
+Moreover, we will use the notation $x\in V$ for vectors in $\mathcal{V}$ to simplify notation.
+
+Default, the vectors are column vectors:
+
+$$
+x=\begin{bmatrix}x_1\\x_2\\..\\ x_n\end{bmatrix} \in R^{n\times 1} \Rightarrow x^T = \begin{bmatrix} x_1 & x_2 & ... & x_n \end{bmatrix} \in R^{1\times n }
+$$
+
+### ***Vector subspaces***
+
+

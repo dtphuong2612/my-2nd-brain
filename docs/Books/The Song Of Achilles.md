@@ -2,7 +2,7 @@
 slug: The Song of Achilles_Madeline Miller
 title: The Song of Achilles_Madeline Miller
 authors: [dttph]
-tags: [thesongofachilles, fiction, romance, history, book, greek]
+tags: [thesongofachilles, fiction, romance, history, book, greek, madelinemiller]
 ---
 
 ***Hanoi, Friday 17th March ,2023***
