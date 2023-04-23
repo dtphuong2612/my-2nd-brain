@@ -3,6 +3,7 @@ slug: The Song of Achilles_Madeline Miller
 title: The Song of Achilles_Madeline Miller
 authors: [dttph]
 tags: [thesongofachilles, fiction, romance, history, book, greek, madelinemiller]
+sidebar_position: 2
 ---
 
 ***Hanoi, Friday 17th March ,2023***
@@ -12,4 +13,3 @@ The story focuses on the love between two princes, Achilles and Patroclus, leavi
 Their story moved me to tears, and I will add it to my list of books that I absolutely love. ***The Song of Achilles*** is a great piece of work.
 
 !['Achilles'](./img/achilles.jpg)
-
