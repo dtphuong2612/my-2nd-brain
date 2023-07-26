@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_2_rd_brain=self.webpackChunkmy_2_rd_brain||[]).push([[4355],{2448:e=>{e.exports=JSON.parse('{"label":"madelinemiller","permalink":"/blog/tags/madelinemiller","allTagsPath":"/blog/tags","count":1}')}}]);
