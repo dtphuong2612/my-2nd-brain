@@ -23,7 +23,7 @@ const config = {
   projectName: 'my-2rd-brain', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
-  onBrokenLinks: 'ignore',
+  onBrokenLinks: 'warn', //throw', ""
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
