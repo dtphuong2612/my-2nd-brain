@@ -12,10 +12,10 @@ const config = {
   favicon: 'img/icon.jpg',
 
   // Set the production url of your site here
-  url: 'https://github.com',
+  url: 'https://phuong2barin.dev',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/my-2rd-brain/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
