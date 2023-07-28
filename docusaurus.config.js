@@ -77,7 +77,7 @@ const config = {
         title: 'My 2rd Brain',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/icon.jpg',
+          src: 'img/mylogo.png',
         },
         items: [
           {
