@@ -9,7 +9,7 @@ const katex = require('rehype-katex');
 const config = {
   title: 'My 2rd Brain',
   tagline: 'Nothing is impossible',
-  favicon: 'img/icon.jpg',
+  favicon: 'img/mylogo.png',
 
   // Set the production url of your site here
   url: 'https://phuong2brain.dev',
@@ -72,7 +72,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/icon.jpg',
+      image: 'img/mylogo.png',
       navbar: {
         title: 'My 2rd Brain',
         logo: {

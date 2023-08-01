@@ -2,7 +2,7 @@
 slug: welcome
 title: Welcome
 authors: [dttph]
-tags: [facebook, hello, github]
+tags: [introduction, hello]
 sidebar_position: 1
 ---
 
