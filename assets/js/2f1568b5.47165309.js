@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_2_rd_brain=self.webpackChunkmy_2_rd_brain||[]).push([[2349],{8216:a=>{a.exports=JSON.parse('{"label":"mother","permalink":"/blog/tags/mother","allTagsPath":"/blog/tags","count":1}')}}]);
