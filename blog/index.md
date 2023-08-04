@@ -22,6 +22,4 @@ I'm Phuong Duong who is a final year student at National Economics University. M
     
             Email me at: dttph2612@gmail.com ^^
 
-This is my first travel photo in 2023:
-![07-03-2023](./imag.jpg)  
 
