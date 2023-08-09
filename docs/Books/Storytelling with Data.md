@@ -35,4 +35,4 @@ So, we focus on **explanatory** analysis and communication.
 
 *Mechanism:* How will you communicate to your audience? The method you will use to communicate to your audience has implications on a number of factors, including the amount of control you will have over how the audience takes in the information and the level of detail that needs to be explicit. We have two communication mechanism, with live presentation and a written document or email. 
 
-*Tone:* What tone do you want your communication to set? Another impor- tant consideration is the tone you want your communication to con- vey to your audience. Are you celebrating a success? Trying to light a fire to drive action? Is the topic lighthearted or serious?
+*Tone:* What tone do you want your communication to set? Another important consideration is the tone you want your communication to convey to your audience. Are you celebrating a success? Trying to light a fire to drive action? Is the topic lighthearted or serious?
