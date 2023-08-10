@@ -1,3 +1,28 @@
+# Google Cloud Platform 
+
+## Introduction 
+
+### What is GCP?
+
+* Cloud computing services offered by Google
+* Includes a range of hosted services for compute, storage and application development that run on Google hardware
+* Same hardware on which google runs its service
+
+Google cloud platform can be divided into the following categories:
+
+!['GCP'](./img/glp.png)
+
+In that section, we will talk about ***Big Data*** and ***Storage & Databases***.
+
+# Docker
+
+## Introduction
+
+
+
+
+
+
 # Terraform Overview
 
 ## Introduction
