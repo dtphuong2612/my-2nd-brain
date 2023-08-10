@@ -1,6 +1,6 @@
-# Google Cloud Platform 
+# Introduction 
 
-## Introduction 
+## Google Cloud Platform 
 
 ### What is GCP?
 
@@ -14,18 +14,14 @@ Google cloud platform can be divided into the following categories:
 
 In that section, we will talk about ***Big Data*** and ***Storage & Databases***.
 
-# Docker
-
-## Introduction
+## Docker
 
 
 
 
 
 
-# Terraform Overview
-
-## Introduction
+## Terraform Overview
 
 ### What is Terraform ?
 

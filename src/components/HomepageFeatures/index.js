@@ -8,8 +8,9 @@ const FeatureList = [
     Svg: require('@site/static/img/self.svg').default,
     description: (
       <>
-       My name is Phuong Duong. I majored in Data Science in Economics and Business at the National Economics University.
-       I am currently developing as a Machine Learning Engineer. and I'm here to share what I've learned.
+      Hi guys, I’m Phuong Duong, a graduated student from National Economics University, 
+      majority of Data Science in Economics and Business. I am now developing as a Machine Learning Engineer,
+      which has so much work to do, yet kinda fun ^^
       </>
     ),
   },
@@ -18,20 +19,19 @@ const FeatureList = [
     Svg: require('@site/static/img/fav.svg').default,
     description: (
       <>
-        I really like cute little things !!!! 
-        I also love read and the best book to re-read is "Giấc Mơ Mỹ - Đường Đến Stanford" by Huyen Chip.
-        I usually watch youtube in my free time, my favorite channels are Giang Oi and Diep Minh. And my dream is to set foot in Switzerland, an extremely peaceful country.
+        I really like cute little things !!!! I also fond of reading and the best book to loop is "Giấc Mơ Mỹ - Đường Đến Stanford" by Huyen Chip. 
+        For video entertainment, Giang Oi and Diep Minh channels are two of the best. 
+        I always dream about printing a step in Switzerland. What a peaceful paradise!
       </>
     ),
   },
   {
-    title: 'My 2rd Brain',
+    title: 'My 2nd Brain',
     Svg: require('@site/static/img/workk.svg').default,
     description: (
       <>
-        I am a very forgetful person. 
-        That's why my 2rd brain was born. 
-        I will write what I learn here with two main purposes that I can easily review when needed and to share with everyone.
+        I'm a very woolgathering person. That's why my 2nd brain was born. 
+        I will note down what I‘ve learnt here so that we can both conquere the knowledge together.
       </>
     ),
   },

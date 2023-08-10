@@ -74,7 +74,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/mylogo.png',
       navbar: {
-        title: 'My 2rd Brain',
+        title: 'My 2nd Brain',
         logo: {
           alt: 'My Site Logo',
           src: 'img/mylogo.png',
