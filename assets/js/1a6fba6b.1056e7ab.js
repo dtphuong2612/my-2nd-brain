@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_2_rd_brain=self.webpackChunkmy_2_rd_brain||[]).push([[8191],{3999:e=>{e.exports=JSON.parse('{"title":"Books","slug":"/category/books","permalink":"/docs/category/books","navigation":{"next":{"title":"storytelling with data_cole nussbaumer knaflic","permalink":"/docs/Books/storytelling with data_cole nussbaumer knaflic"}}}')}}]);
