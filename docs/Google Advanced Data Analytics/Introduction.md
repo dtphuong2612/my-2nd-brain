@@ -1,6 +1,6 @@
 ---
-slug: Google Advanced Data Analytics Certificate
-title: Google Advanced Data Analytics Certificate
+slug: Introduction
+title: Introduction
 authors: [dttph]
 tags: [coursera ,data analytics, data science, google certificate]
 

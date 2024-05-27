@@ -1,6 +1,6 @@
 ---
-slug: Foundations of Data Science
-title: Foundations of Data Science 
+slug: Course 01: Foundations of Data Science
+title: Course 01: Foundations of Data Science 
 authors: [dttph]
 tags: [coursera ,data analytics, data science, google certificate]
 
