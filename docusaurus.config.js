@@ -7,7 +7,7 @@ const math = require('remark-math');
 const katex = require('rehype-katex');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My 2rd Brain',
+  title: 'My 2nd Brain',
   tagline: 'Nothing is impossible',
   favicon: 'img/mylogo.png',
 
@@ -20,7 +20,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'dtphuong2612', // Usually your GitHub org/user name.
-  projectName: 'my-2rd-brain', // Usually your repo name.
+  projectName: 'my-2nd-brain', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'warn', //throw', ""
@@ -74,7 +74,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/mylogo.png',
       navbar: {
-        title: 'My 2rd Brain',
+        title: 'My 2nd Brain',
         logo: {
           alt: 'My Site Logo',
           src: 'img/mylogo.png',
@@ -88,7 +88,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/dtphuong2612/my-2rd-brain',
+            href: 'https://github.com/dtphuong2612/my-2nd-brain',
             label: 'mygit',
             position: 'right',
           },
