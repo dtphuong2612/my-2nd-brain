@@ -9,7 +9,7 @@ const FeatureList = [
     description: (
       <>
       Hi guys, I’m Phuong Duong, a graduated student from National Economics University, 
-      majority of Data Science in Economics and Business. I am now developing as a Machine Learning Engineer,
+      majority of Data Science in Economics and Business. I am now developing as a Data Analyst,
       which has so much work to do, yet kinda fun ^^
       </>
     ),
@@ -31,7 +31,7 @@ const FeatureList = [
     description: (
       <>
         I'm a very woolgathering person. That's why my 2nd brain was born. 
-        I will note down what I‘ve learnt here so that we can both conquere the knowledge together.
+        I will note down what I've learned here so that we can both conquer the knowledge together.
       </>
     ),
   },
