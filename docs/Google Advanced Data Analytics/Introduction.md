@@ -1,12 +1,21 @@
+---
+slug: Google Advanced Data Analytics Certificate
+title: Google Advanced Data Analytics Certificate
+authors: [dttph]
+tags: [coursera ,data analytics, data science, google certificate]
+
+
+---
+
 ***Google Advanced Data Analytics Certificate***
 
-**Overview** 
+# **Overview** 
 
 The Google Advanced Data Analytics have seven courses. 
 
 ![Courses](./img_gg/gg_advanced.png "Seven Courses")
 
-*Course 1*: Foundations of Data Science
+## *Course 1*: Foundations of Data Science
 
 ![Courses](./img_gg/course1.png "Courses 01")
 
@@ -17,7 +26,7 @@ The Google Advanced Data Analytics have seven courses.
 * Explore data professional workflow
 * Develop effective communication skills
 
-*Course 2*: Get Started with Python 
+## *Course 2*: Get Started with Python 
 
 ![Courses](./img_gg/course2.png "Courses 02")
 
@@ -27,7 +36,7 @@ The Google Advanced Data Analytics have seven courses.
 * Import and use Python modules to access powerful functions and methods
 * Demonstrate object-oriented programming using classes and objects
 
-*Course 3*: Go Beyond the Numbers: Translate Data into Insights
+## *Course 3*: Go Beyond the Numbers: Translate Data into Insights
 
 ![Courses](./img_gg/course3.png "Courses 03")
 
@@ -37,7 +46,7 @@ The Google Advanced Data Analytics have seven courses.
 * Apply input validation skills to a dataset using Python
 * Create visualizations using Tableau that tell the story of a dataset
 
-*Course 4*: The Power of Statistics
+## *Course 4*: The Power of Statistics
 
 ![Courses](./img_gg/course4.png "Courses 04")
 
@@ -47,7 +56,7 @@ The Google Advanced Data Analytics have seven courses.
 * Construct and interpret confidence intervals
 * Perform and interpret hypothesis tests
 
-*Course 5*: Regression Analysis: Simplify Complex Data Relationships
+## *Course 5*: Regression Analysis: Simplify Complex Data Relationships
 
 ![Courses](./img_gg/couse5.png "Courses 05")
 
@@ -57,7 +66,7 @@ The Google Advanced Data Analytics have seven courses.
 * Identify model assumptions
 * Perform model evaluation and interpretation
 
-*Course 6*: The Nuts and Bolts of Machine Learning
+## *Course 6*: The Nuts and Bolts of Machine Learning
 
 ![Courses](./img_gg/course6.png "Courses 06")
 
@@ -73,7 +82,7 @@ The Google Advanced Data Analytics have seven courses.
 
   * Different classification techniques such as decision trees, random forests, and gradient boosting
 
-*Course 7*: Google Advanced Data Analytics Capstone
+## *Course 7*: Google Advanced Data Analytics Capstone
 
 ![Courses](./img_gg/course7.png "Courses 07")
 

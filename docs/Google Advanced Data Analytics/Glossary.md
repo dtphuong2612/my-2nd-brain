@@ -1,3 +1,13 @@
+---
+slug: Terms and definitions from all courses
+title: Terms and definitions from all courses 
+authors: [dttph]
+tags: [coursera ,data analytics, data science, google certificate]
+
+
+
+---
+
 # Terms and definitions from all courses
 
 ​		

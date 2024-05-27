@@ -1,8 +1,14 @@
-***Miễn Dịch_Phillip Dettmer (Dịch bởi nhóm Oddly Normal Podcast)***
+---
+slug: Miễn Dịch_Phillip Dettmer (Dịch bởi nhóm Oddly Normal Podcast)
+title: Miễn Dịch_Phillip Dettmer (Dịch bởi nhóm Oddly Normal Podcast)
+authors: [dttph]
+tags: [book,miendich,phillip dettmer, oddly normal podcast]
 
-**Phần I: Làm quen với hệ miễn dịch của bạn**
+---
 
-*Hệ miễn dịch là gì?*
+# **Phần I: Làm quen với hệ miễn dịch của bạn**
+
+## *Hệ miễn dịch là gì?*
 
 Hệ miễn dịch là công cụ để phân biệt "*bản thân*" và "*giá trị ngoại lai*". Nhưng đó không phải là mục tiêu của nó, mà để cân bằng giữa các yếu tố và tế bào cơ thể mới chính là mục tiêu thực sự của hệ miễn dịch. 
 
@@ -10,7 +16,7 @@ Hệ miễn dịch luôn luôn chiến đấu không ngừng để bảo bệ c�
 
 À thì dù thế nhưng cũng có những lúc hệ miễn dịch của chúng ta hoạt động một cách thái quá và đôi lúc nó đã nhầm lẫn và hoang mang không phân biệt được cơ thể và yếu tố ngoại lai. Điều này dẫn đến ta phải uống rất nhiều thuốc (Ví dụ như bệnh dị ứng, hệ miễn dịch đã phản ứng rất mạnh mẽ và thái quá, nó đã cho rằng cơ thể chính là kẻ thù và nó quyết định bản thân chính là những ngoại lai và nó cũng hết sức chiến đấu)
 
-*Bảo vệ cái gì cơ?*
+## *Bảo vệ cái gì cơ?*
 
 Điểm yếu của cơ thể là các lớp niêm mạc dễ bị nhiễm trùng - như bề mặt khí quản, phổi, mí mắt, miệng và mũi, dạ dày và ruột, cơ quan sinh dục và bàng quang. (Niêm mạc là những phần bên ngoài)
 
@@ -21,7 +27,7 @@ Những loại sâu bọ nguy hiểm sinh sản tự do vô tội vạ trong cơ
 
 Hệ miễn dịch biến cơ thể bạn thành một pháo đài. Và hơn thế nữa, đó là một pháo đài chứa cả tỷ binh lính hung hãn, thiện chiến nhất vũ trụ. Họ có vô số vũ khí để tùy ý sử dụng, và họ sử dụng chúng một cách không thương tiếc. Đội quân miễn dịch của bạn đã tiêu diệt hàng tỷ kẻ thù và ký sinh trùng bạn từng gặp trong đời, và vẫn sẵn sàng giết thêm hàng tỷ hoặc hàng ngàn tỷ nữa. 
 
-*Tế bào là gì?*
+## *Tế bào là gì?*
 
 
 

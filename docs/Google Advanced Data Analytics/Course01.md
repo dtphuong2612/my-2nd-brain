@@ -1,6 +1,21 @@
-***Foundations of Data Science***
+---
+slug: Foundations of Data Science
+title: Foundations of Data Science 
+authors: [dttph]
+tags: [coursera ,data analytics, data science, google certificate]
 
-## What is data science vs. data analytics 
+
+
+
+---
+
+
+
+# ***Foundations of Data Science***
+
+## ***Module 01: Introduction to data science concepts***
+
+### What is data science vs. data analytics 
 
 *Data Science* is entire field dedicated to making data more useful. A data scientist is a professional that uses raw data to develop new ways to model data and understand the unknown. Often, their job responsibilities incorporate various components of computer science, predictive analytics, statistics, and machine learning. The collections of information that data scientists work with can be quite large, requiring expertise to organize and navigate. 
 
@@ -8,7 +23,7 @@
 
 ![comparison](./img_gg/comparison.png "Comparison Data Science and Data Analytics")
 
-## The connections between data science and data analytics
+### The connections between data science and data analytics
 
 - **Data science and data analytics** both aim to extract knowledge from data to help businesses grow.
 - They work with data collected from measurable interactions.
@@ -17,7 +32,7 @@
 - The specific duties of each role depend on the company's resources and industry.
 - The overlapping nature of the fields leads to interchangeable use of the titles in workplaces and job postings.
 
-## The data professional in the data career space
+### The data professional in the data career space
 
 This program uses different terms for data professionals:
 
