@@ -1,6 +1,6 @@
 ---
-slug: Miễn Dịch_Phillip Dettmer (Dịch bởi nhóm Oddly Normal Podcast)
-title: Miễn Dịch_Phillip Dettmer (Dịch bởi nhóm Oddly Normal Podcast)
+slug: Miễn Dịch_Phillip Dettmer
+title: Miễn Dịch_Phillip Dettmer
 authors: [dttph]
 tags: [book,miendich,phillip dettmer, oddly normal podcast]
 
