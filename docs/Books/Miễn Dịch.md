@@ -29,5 +29,11 @@ Hệ miễn dịch biến cơ thể bạn thành một pháo đài. Và hơn th�
 
 ## *Tế bào là gì?*
 
+Tế bào chính thức nó là cái gì và hoạt động ra sao?
 
+Tế bào là đơn vị nhỏ nhất của sự sống: thứ chúng ta có thể nhìn vào và khẳng định nó đang sống. Có một số vài đặc tính mà ta đã gán cho nó: Một thứ gì đó đang sống, tự tách biệt bản thân khỏi vũ trụ xung quanh. Nó có trao đổi chất, nghĩa là lấy dinh dưỡng từ bên ngoài và loại bỏ chất thải mà bản thân tạo ra. Nó phản ứng với các kích thích. Nó lớn lên và tạo ra thêm nhiều bản sao của chính nó. Và cuối cùng thì bạn được tạo ra từ chúng. 
+
+Cơ bắp, các cơ quan, da và tóc đều được tạo thành từ các tế bào. Dòng máu nóng chảy trong cơ thể bạn cũng vậy. Và vì có kích thước rất rất rất nhỏ, chúng hoàn toàn không có ý chí tự do, cảm xúc, hay mục đích cuộc đời, cũng không biết chủ động đưa ra quyết định. Nó như một robot sinh học và được điều khiển với hằng sa số các phản ứng sinh hóa điều hướng bởi các đơn vị thậm chí còn nhỏ hơn nữa ở bên trong chúng. 
+
+Bây giờ, hãy nhìn xung quanh phòng bạn và tưởng tượng căn phòng này đầy ứ hự vật chất từ sàn tới nóc. Hàng triệu hạt cát, hàng triệu bao gạo, vài nghìn quả táo, đào và cả tá dưa hấy bự. Bên trong tế bào trông cũng giống như vậy đó. Mỗi một tế bào trong cơ thể người chứa hàng chục triệu phân tử nhỏ lẻ. Một nửa trong số đó là phân tử nước (nó chính là những hạt cát trong ví dụ trên đó), ở bên trong tế báo nước sẽ ở dạng nhớt nhớt giống như thạch mềm, giúp những thứ khác di chuyển dễ hơn. Nửa còn lại của phần bên trong tế bào chủ yếu là hàng triệu protein, là những bao gạo và hoa quả trong căn phòng chúng ta đang tưởng tượng. Dứa hấu là các bào quan mà chúng ta thường thấy trong những bức hình minh họa tế bào. Có thể nói tế bào của bạn chủ yếu được tạo ra từ protein, và chứa đầy protein. 
 
