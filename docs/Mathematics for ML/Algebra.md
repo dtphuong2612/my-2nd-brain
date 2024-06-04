@@ -136,7 +136,7 @@ $$
 
 ![Matrix multiplication](./img'/multi.png 'Example')
 
-​![matrix multi](./img'/multi_n.png)
+![matrix multi](./img'/multi_n.png)
 
 *Example*
 $$
@@ -504,6 +504,7 @@ $$=
 \begin{matrix} 1\\4\\1\\\frac{1}{4} \end{matrix}
 \right\rceil
 $$
+
 $$
 \Rightarrow
 \begin{cases}
@@ -526,10 +527,12 @@ We have: $AA^{-1} =I$
 $$
 \begin{bmatrix} 2&0&0\\0&-1&0\\0&0&6\end{bmatrix} \begin{bmatrix} a_{11}&a_{12}&a_{13}\\a_{21}&a_{22}&a_{23}\\a_{31}&a_{32}&a_{33}\end{bmatrix} = \begin{bmatrix} 1&0&0\\0&1&0\\0&0&1 \end{bmatrix}
 $$
+
 $$
 \Leftrightarrow
 \begin{bmatrix} -2a_{11}&2a_{12}&2a_{13}\\-a_{21}&-a_{22}&-a_{23}\\6a_{31}&6a_{32}&6a_{33}\end{bmatrix} = \begin{bmatrix} 1&0&0\\0&1&0\\0&0&1 \end{bmatrix}
 $$
+
 $$
 \Leftrightarrow
 A^{-1} = \begin{bmatrix} \frac{1}{2}&0&0\\0&-1&0\\0&0&\frac{1}{6} \end{bmatrix}
@@ -540,17 +543,18 @@ We have: $BB^{-1} =I$
 $$
 \begin{bmatrix} 4&1\\3&1 \end{bmatrix} \begin{bmatrix} a_{11}&a_{12}\\a_{21}&a_{22} \end{bmatrix} =  \begin{bmatrix} 1&0\\0&1\end{bmatrix}
 $$
+
 $$
 \Leftrightarrow
 \begin{bmatrix} 4a_{11} + a_{21}&4a_{12}+a_{22}\\3a_{11}+a_{21}&3a_{12}+a_{22} \end{bmatrix} = \begin{bmatrix} 1&0\\0&1\end{bmatrix}
 $$
+
 $$
 \Rightarrow B^{-1} =
 \begin{bmatrix}
 1&-1\\-3&4
 \end{bmatrix}
 $$
-
 ## Linear Independent
 ### ***Group***
 
@@ -633,11 +637,9 @@ We will denote a vector space $(\mathcal{V}, +, .)$ by V when + and . are the st
 Moreover, we will use the notation $x\in V$ for vectors in $\mathcal{V}$ to simplify notation.
 
 Default, the vectors are column vectors:
-
 $$
 x=\begin{bmatrix}x_1\\x_2\\..\\ x_n\end{bmatrix} \in R^{n\times 1} \Rightarrow x^T = \begin{bmatrix} x_1 & x_2 & ... & x_n \end{bmatrix} \in R^{1\times n }
 $$
 
 ### ***Vector subspaces***
-
 
