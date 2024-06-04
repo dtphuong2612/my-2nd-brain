@@ -2,7 +2,7 @@
 slug: Measuring The User Experience
 title: Measuring The User Experience
 authors: [dttph]
-tags: [book,measuringtheuserexperience,,datascience, dataanalyst, ui/ux]
+tags: [book,measuringtheuserexperience,,datascience, dataanalyst, uiux]
 ---
 # *Chapter 01: Introduction*
 ## 1.1 What is User Experience? 
