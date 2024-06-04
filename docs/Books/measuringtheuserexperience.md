@@ -2,7 +2,7 @@
 slug: Measuring The User Experience
 title: Measuring The User Experience
 authors: [dttph]
-tags: [book,measuringtheuserexperience,,datascience, dataanalyst, uiux]
+tags: [book,measuringtheuserexperience,datascience, dataanalyst, uiux]
 ---
 # *Chapter 01: Introduction*
 ## 1.1 What is User Experience? 
@@ -12,7 +12,7 @@ Trải nghiệm người dùng bao gồm 3 đặc điểm xác định chính:
 * Một người dùng có liên quan
 * Người dùng đó đang tương tác với một sản phẩm, hệ thống hoặc bất cứ thứ gì đó với một giao diện
 
-Phân biệt ''*usability*" và "*user experience*"
+Phân biệt "*usability*" và "*user experience*"
 
 * "*usability*" thường được coi là khả năng của người dùng sử dụng thứ gì đó để thực hiện một nhiệm vụ nào đó thành công
 * "*user experience*" rộng hơn, nó nhìn toàn bộ tương tác của một cá nhân với thứ gì đó, cũng như những suy nghĩ, cảm xúc và nhận thức xuất phát từ tương tác đó
